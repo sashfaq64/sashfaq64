@@ -2,8 +2,8 @@
 -  I am a senior at the University of Kentucky, studying Computer Science
 -  I am currently looking for work as a Software Engineer 
 -  Reach out to me via email: sashfaq64@gmail.com
--  
 
+Thanks for visiting 😄
 <!--
 **sashfaq64/sashfaq64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
