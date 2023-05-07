@@ -1,5 +1,5 @@
 ### Hello and welcome to my GitHub‼️
--  I am a senior at the University of Kentucky, studying Computer Science
+-  I am a recent graduate from the University of Kentucky
 -  I am currently looking for work as a Software Engineer
 -  Please feel free to look through all my projects, which can be found below 
 -  Reach out to me via email: sashfaq64@gmail.com
