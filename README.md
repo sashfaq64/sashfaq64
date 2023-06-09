@@ -2,7 +2,7 @@
 -  I am a recent graduate from the University of Kentucky
 -  I am currently looking for work as a Software Engineer
 -  Please feel free to look through all my projects, which can be found below 
--  Reach out to me via email: sashfaq64@gmail.com
+-  Reach out to me via email: saif.ahmed.ashfaq@gmail.com
 
 Thanks for visiting 😄
 <!--
